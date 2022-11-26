@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_express_mongo.2",
+  "version": "1.0.0",
+  "description": "Laboratorio API REST con mongoDB",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linaG-012/NodeJS_Express_Mongo.2.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "MongoDB",
+    "API",
+    "REST",
+    "Backend"
+  ],
+  "author": "Lina Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linaG-012/NodeJS_Express_Mongo.2/issues"
+  },
+  "homepage": "https://github.com/linaG-012/NodeJS_Express_Mongo.2#readme"
+}
